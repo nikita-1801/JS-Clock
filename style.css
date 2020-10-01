@@ -3,6 +3,8 @@ body{
   padding-top: 8%;
   text-align: center;
   /* background-blend-mode: lighten; */
+  background-attachment: fixed;
+  background-size: 100%;
 }
 
 #clock{
